@@ -1,0 +1,179 @@
+{
+	"main": {
+		"name": "Saief Al Emon",
+		"description": "An experienced frontend developer with proven skills in Vanilla JavaScript, ES6/ESNext, Reactjs, Bootstrap, Material UI, HTML5, CSS3, SASS/SCSS.",
+		"image": "profilepic.jpg",
+		"bio": "An experienced frontend developer, exploring fullstack MERN development and SPA, continuously updating my skill sets, fixing knowledge base and solving problems, intends to progress rapidly with greater responsibilities.",
+		"contactmessage": "I'm looking forward to work with you, contact me, if you are interested",
+		"email": "saiefalemon@gmail.com",
+		"phone": "+8801515210716",
+		"github": "https://github.com/iamsaief",
+		"project": "https://github.com/iamsaief",
+		"address": {
+			"street": "Hazaribagh Road",
+			"city": "Dhaka",
+			"zip": "1209"
+		},
+		"website": "http://www.timbakerdev.com",
+		"resumedownload": "https://drive.google.com/file/d/1kTSOdxXXQIa8nkeP26pauVgC4K406RVc/view?usp=sharing",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/saiefalemon",
+				"className": "fab fa-facebook"
+			},
+			{
+				"name": "twitter",
+				"url": "http://twitter.com/saiefalemon",
+				"className": "fab fa-twitter"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/saiefalemon",
+				"className": "fab fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "http://instagram.com/saiefalemon",
+				"className": "fab fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/iamsaief",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "Job related skills, please check out my cv for further details",
+		"education": [
+			{
+				"school": "National University of Bangladesh, Dhaka, Bangladesh",
+				"degree": "B.Sc. (Hons) in Computer Science and Engineering",
+				"graduated": "Mar 2014 - Oct 2018"
+			},
+			{
+				"school": "freeCodeCamp.org",
+				"degree": "JavaScript Algorithms and Data Structures Certification (300 hours)",
+				"graduated": "April 2020"
+			},
+			{
+				"school": "freeCodeCamp.org",
+				"degree": "Responsive Web Design Certification (300 hours)",
+				"graduated": "February 2019"
+			}
+		],
+		"work": [
+			{
+				"company": "JoomShaper",
+				"title": "Frontend Developer",
+				"years": "Jun 2019 - Present",
+				"description": "Actively collaborating on up and running WordPress plugins, building reusable UIs. Working on Qubely & Tutor LMS, popular flagship plugins, as a Frontend Developer. Adding new features, fixing bugs & updating UI/UX issues."
+			},
+			{
+				"company": "Online Marketplace",
+				"title": "Freelance Web Designer",
+				"years": "Feb 2018 - Jun 2019",
+				"description": "Developed web interfaces as per client's requirement. Updated and fixed bugs on client's website. Provided client support after project submission."
+			},
+			{
+				"company": "Hello Academy,",
+				"title": "Frontend Developer",
+				"years": "Feb 2017 - Dec 2017",
+				"description": "Worked on HTML templates, WordPress theme development. Trained and guided 7 interns how to build scalable UI. Gained appreciation for presentation skills, being calm & cool-headed teammate."
+			}
+		],
+		"skills": [
+			{
+				"name": "JavaScript",
+				"level": "70%"
+			},
+			{
+				"name": "ReactJs",
+				"level": "80%"
+			},
+			{
+				"name": "HTML",
+				"level": "90%"
+			},
+			{
+				"name": "CSS",
+				"level": "90%"
+			},
+			{
+				"name": "SASS/SCSS",
+				"level": "90%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "Creative Agency",
+				"category": "Fullstack MERN application for Online service provider",
+				"image": "ca-thumbnail.jpg",
+				"url": "https://ims-creative-agency.web.app/",
+				"repository": "https://github.com/iamsaief/creative-agency-client"
+			},
+			{
+				"title": "Volunteer Network",
+				"category": "Fullstack MERN application for Charity Works management",
+				"image": "vn-thumbnail.jpg",
+				"url": "https://ims-volnet.web.app/",
+				"repository": "https://github.com/iamsaief/volunteer-network-client"
+			},
+			{
+				"title": "Travel Guru",
+				"category": "Hotel booking application",
+				"image": "tg-thumbnail.jpg",
+				"url": "ims-travel-guru.web.app/",
+				"repository": "https://github.com/iamsaief/travel-guru"
+			},
+			{
+				"title": "Red Onion",
+				"category": "Online restaurant application",
+				"image": "ro-thumbnail.jpg",
+				"url": "https://ims-red-onion-9a7aa.web.app/",
+				"repository": "https://github.com/iamsaief/red-onion"
+			},
+			{
+				"title": "Hard Rock",
+				"category": "Lyrics searching application where you can search lyrics of your favorite songs",
+				"image": "hr-thumbnail.jpg",
+				"url": "https://iamsaief.github.io/hard-rock/",
+				"repository": "https://github.com/iamsaief/hard-rock"
+			},
+			{
+				"title": "My Book List",
+				"category": "Keep track of books, option to add/delete book, built with vanilla JS.",
+				"image": "bl-thumbnail.jpg",
+				"url": "https://iamsaief.github.io/my-book-list",
+				"repository": "https://github.com/iamsaief/my-book-list"
+			}
+		]
+	},
+	"blog": {
+		"articles": [
+			{
+				"title": "How to Get Started With React Router, In-Depth Explanation With Project",
+				"image": "blog-thumb-router.jpg",
+				"url": "https://medium.com/swlh/how-to-get-started-with-react-router-in-depth-explanation-with-project-531f38786b58"
+			},
+			{
+				"title": "React Core Concepts in a nutshell",
+				"image": "blog-thumb-react.jpg",
+				"url": "https://medium.com/@saiefalemon/react-core-concepts-in-a-nutshell-a0d251c068a"
+			},
+			{
+				"title": "Modern JS/ES6-what to know before jumping to ReactJS",
+				"image": "blog-thumb-js.jpg",
+				"url": "https://medium.com/@saiefalemon/modern-js-es6-to-know-before-jumping-to-reactjs-a1957e67c824"
+			},
+			{
+				"title": "Intermediate JavaScripts: the quicker you understand the better",
+				"image": "blog-thumb-js-2.jpg",
+				"url": "https://medium.com/@saiefalemon/intermediate-javascripts-must-know-before-applying-for-a-job-5bfad447d4cb"
+			}
+		]
+	}
+}

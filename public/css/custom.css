@@ -1,0 +1,96 @@
+#about .profile-pic {
+	width: 100%;
+	height: auto;
+}
+
+.bars li {
+	height: 12px;
+}
+.bar-expand {
+	height: 12px;
+	line-height: 12px;
+}
+
+.education {
+	border-bottom: none;
+	margin-bottom: 0px;
+}
+.work,
+.skill {
+	margin-bottom: 48px;
+	padding-bottom: 24px;
+	border-bottom: 1px solid #e8e8e8;
+}
+
+.bgrid-quarters [class*="column"] {
+	width: 33.333%;
+}
+
+.portfolio-item .portfolio-item-meta h5 {
+	color: #fff;
+	font-family: "Open Sans", sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 1.5;
+}
+
+.portfolio-item .portfolio-item-meta p {
+	color: #c6c7c7;
+	margin-bottom: 0;
+	font-family: "Open Sans", sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.5;
+}
+
+.portfolio-item-meta .links a {
+	color: #ffff;
+	display: inline-block;
+}
+
+.portfolio-item-meta .links,
+.portfolio-item-meta .links a {
+	color: #ff8b5a;
+}
+
+.portfolio-item-meta .links a:hover {
+	text-decoration: underline;
+}
+
+.portfolio-item-meta .links a {
+	margin-right: 5px;
+}
+
+#contact label {
+	width: 18%;
+}
+
+#contact input,
+#contact textarea,
+#contact select {
+	width: 82%;
+}
+
+#contact button.submit {
+	margin-left: 18%;
+}
+
+#blog {
+	background: #f3f3f3;
+	padding-top: 90px;
+	padding-bottom: 60px;
+}
+#blog h1 {
+	font: 15px/24px "opensans-semibold", sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	text-align: center;
+	margin-bottom: 48px;
+	color: #95a3a3;
+}
+
+#blogs-wrapper {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+	grid-gap: 30px;
+}
